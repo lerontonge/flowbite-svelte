@@ -832,11 +832,23 @@ export interface SelectProps<T> extends SelectVariants, Omit<HTMLSelectAttribute
 
 export interface MultiSelectProps<T> extends MultiSelectVariants, Omit<HTMLSelectAttributes, "size" | "children"> {
   children?: Snippet<[{ item: SelectOptionType<T>; clear: () => void }]>;
-  items?: SelectOptionType<T>[];
-  // value?: (string | number)[];
+  items: SelectOptionType<T>[];
+  value: T[];
   dropdownClass?: string;
   placeholder?: string;
   disabled?: boolean;
+}
+
+// Tags
+export interface TagsProps extends HTMLAttributes<HTMLDivElement> {
+  value: string[];
+  itemClass?: string;
+  placeholder?: string;
+  class?: string;
+  spanClass?: string;
+  closeClass?: string;
+  inputClass?: string;
+  closeBtnSize?: CloseButtonVariants["size"];
 }
 
 // Timepicker
