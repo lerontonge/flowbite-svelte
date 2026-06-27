@@ -45,7 +45,7 @@ Use this example to show a preview of a blog post including the title, descripti
       </ArticleBody>
       <ArticleAuthor>
         {#snippet author()}
-          <img class="h-7 w-7 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png" alt="Jese Leos avatar" />
+          <img class="h-7 w-7 rounded-full" src="/images/blocks/marketing-ui/avatars/jese-leos.png" alt="Jese Leos avatar" />
           <span class="font-medium dark:text-white">Jese Leos</span>
         {/snippet}
         <a href="/" class="text-primary-600 dark:text-primary-500 inline-flex items-center font-medium hover:underline">
@@ -71,7 +71,7 @@ Use this example to show a preview of a blog post including the title, descripti
       </ArticleBody>
       <ArticleAuthor>
         {#snippet author()}
-          <img class="h-7 w-7 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png" alt="Bonnie Green avatar" />
+          <img class="h-7 w-7 rounded-full" src="/images/blocks/marketing-ui/avatars/bonnie-green.png" alt="Bonnie Green avatar" />
           <span class="font-medium dark:text-white">Bonnie Green</span>
         {/snippet}
         <a href="/" class="text-primary-600 dark:text-primary-500 inline-flex items-center font-medium hover:underline">

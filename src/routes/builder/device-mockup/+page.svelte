@@ -18,12 +18,12 @@
       name: "Default",
       device: "default",
       lightimage: {
-        src: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/mockup-1-light.png",
+        src: "/images/blocks/marketing-ui/hero/mockup-1-light.png",
         class: "dark:hidden w-[272px] h-[572px]",
         alt: "default example 1"
       },
       darkimage: {
-        src: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/mockup-1-dark.png",
+        src: "/images/blocks/marketing-ui/hero/mockup-1-dark.png",
         class: "hidden dark:block w-[272px] h-[572px]",
         alt: "default example 2"
       }
@@ -32,12 +32,12 @@
       name: "Ios",
       device: "ios",
       lightimage: {
-        src: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/mockup-2-light.png",
+        src: "/images/blocks/marketing-ui/hero/mockup-2-light.png",
         class: "dark:hidden w-[272px] h-[572px]",
         alt: "ios example 1"
       },
       darkimage: {
-        src: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/mockup-2-dark.png",
+        src: "/images/blocks/marketing-ui/hero/mockup-2-dark.png",
         class: "hidden dark:block w-[272px] h-[572px]",
         alt: "ios example 2"
       }
@@ -46,12 +46,12 @@
       name: "Android",
       device: "android",
       lightimage: {
-        src: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/mockup-1-light.png",
+        src: "/images/blocks/marketing-ui/hero/mockup-1-light.png",
         class: "dark:hidden w-[272px] h-[572px]",
         alt: "android example 1"
       },
       darkimage: {
-        src: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/mockup-1-dark.png",
+        src: "/images/blocks/marketing-ui/hero/mockup-1-dark.png",
         class: "hidden dark:block w-[272px] h-[572px]",
         alt: "android example 2"
       }
@@ -60,12 +60,12 @@
       name: "Tablet",
       device: "tablet",
       lightimage: {
-        src: "https://flowbite.s3.amazonaws.com/docs/device-mockups/tablet-mockup-image.png",
+        src: "/images/docs/device-mockups/tablet-mockup-image.png",
         class: "dark:hidden h-[426px] md:h-[654px]",
         alt: "tablet example 1"
       },
       darkimage: {
-        src: "https://flowbite.s3.amazonaws.com/docs/device-mockups/tablet-mockup-image-dark.png",
+        src: "/images/docs/device-mockups/tablet-mockup-image-dark.png",
         class: "hidden dark:block h-[426px] md:h-[654px]",
         alt: "tablet example 2"
       }
@@ -74,12 +74,12 @@
       name: "Laptop",
       device: "laptop",
       lightimage: {
-        src: "https://flowbite.s3.amazonaws.com/docs/device-mockups/laptop-screen.png",
+        src: "/images/docs/device-mockups/laptop-screen.png",
         class: "dark:hidden h-[156px] md:h-[278px] w-full rounded-xl",
         alt: "laptop example 1"
       },
       darkimage: {
-        src: "https://flowbite.s3.amazonaws.com/docs/device-mockups/laptop-screen-dark.png",
+        src: "/images/docs/device-mockups/laptop-screen-dark.png",
         class: "hidden dark:block h-[156px] md:h-[278px] w-full rounded-lg",
         alt: "laptop example 2"
       }
@@ -88,12 +88,12 @@
       name: "Desktop",
       device: "desktop",
       lightimage: {
-        src: "https://flowbite.s3.amazonaws.com/docs/device-mockups/screen-image-imac.png",
+        src: "/images/docs/device-mockups/screen-image-imac.png",
         class: "dark:hidden h-[140px] md:h-[262px] w-full rounded-xl",
         alt: "desktop example 1"
       },
       darkimage: {
-        src: "https://flowbite.s3.amazonaws.com/docs/device-mockups/screen-image-imac-dark.png",
+        src: "/images/docs/device-mockups/screen-image-imac-dark.png",
         class: "hidden dark:block h-[140px] md:h-[262px] w-full rounded-xl",
         alt: "desktop example 2"
       }
@@ -102,12 +102,12 @@
       name: "Smartwatch",
       device: "smartwatch",
       lightimage: {
-        src: "https://flowbite.s3.amazonaws.com/docs/device-mockups/watch-screen-image.png",
+        src: "/images/docs/device-mockups/watch-screen-image.png",
         class: "dark:hidden h-[193px] w-[188px",
         alt: "smartwatch example 1"
       },
       darkimage: {
-        src: "https://flowbite.s3.amazonaws.com/docs/device-mockups/watch-screen-image-dark.png",
+        src: "/images/docs/device-mockups/watch-screen-image-dark.png",
         class: "hidden dark:block h-[193px] w-[188px]",
         alt: "smartwatch example 2"
       }

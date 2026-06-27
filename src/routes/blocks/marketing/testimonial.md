@@ -28,7 +28,7 @@ Use this simple example of a testimonial based on a blockquote element and show 
       <p class="text-2xl font-medium text-gray-900 dark:text-white">"Flowbite is just awesome. It contains tons of predesigned components and pages starting from login screen to complex dashboard. Perfect choice for your next SaaS application."</p>
     </blockquote>
     {#snippet footer()}
-      <img class="h-6 w-6 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png" alt="michael profile" />
+      <img class="h-6 w-6 rounded-full" src="/images/blocks/marketing-ui/avatars/michael-gouch.png" alt="michael profile" />
       <div class="flex items-center divide-x-2 divide-gray-500 dark:divide-gray-700">
         <div class="pr-3 font-medium text-gray-900 dark:text-white">Micheal Gough</div>
         <div class="pl-3 text-sm font-light text-gray-500 dark:text-gray-400">CEO at Google</div>
@@ -60,7 +60,7 @@ You can use this example of testimonial cards up to two items on a row and show 
         Speechless with how easy this was to integrate
       {/snippet}
       {#snippet caption()}
-        <img class="h-9 w-9 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/karen-nelson.png" alt="karen profile" />
+        <img class="h-9 w-9 rounded-full" src="/images/blocks/marketing-ui/avatars/karen-nelson.png" alt="karen profile" />
         <div class="space-y-0.5 text-left font-medium dark:text-white">
           <div>Bonnie Green</div>
           <div class="text-sm font-light text-gray-500 dark:text-gray-400">Developer at Open AI</div>
@@ -75,7 +75,7 @@ You can use this example of testimonial cards up to two items on a row and show 
       <p class="my-4">"FlowBite provides a robust set of design tokens and components based on the popular Tailwind CSS framework. From the most used UI components like forms and navigation bars to the whole app screens designed both for desktop and mobile, this UI kit provides a solid foundation for any project.</p>
       <p class="my-4">Designing with Figma components that can be easily translated to the utility classes of Tailwind CSS is a huge timesaver!"</p>
       {#snippet caption()}
-        <img class="h-9 w-9 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/roberta-casas.png" alt="robert profile" />
+        <img class="h-9 w-9 rounded-full" src="/images/blocks/marketing-ui/avatars/roberta-casas.png" alt="robert profile" />
         <div class="space-y-0.5 text-left font-medium dark:text-white">
           <div>Roberta Casas</div>
           <div class="text-sm font-light text-gray-500 dark:text-gray-400">Lead designer at Dropbox</div>
@@ -88,7 +88,7 @@ You can use this example of testimonial cards up to two items on a row and show 
       <p class="my-4">Everything is so well structured and simple to use (I've learnt so much about Figma by just using the toolkit).</p>
       <p class="my-4">Aesthetically, the well designed components are beautiful and will undoubtedly level up your next application."</p>
       {#snippet caption()}
-        <img class="h-9 w-9 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png" alt="jese leos profile" />
+        <img class="h-9 w-9 rounded-full" src="/images/blocks/marketing-ui/avatars/jese-leos.png" alt="jese leos profile" />
         <div class="space-y-0.5 text-left font-medium dark:text-white">
           <div>Jese Leos</div>
           <div class="text-sm font-light text-gray-500 dark:text-gray-400">Software Engineer at Facebook</div>
@@ -100,7 +100,7 @@ You can use this example of testimonial cards up to two items on a row and show 
       <p class="my-4">"This is a very complex and beautiful set of elements. Under the hood it comes with the best things from 2 different worlds: Figma and Tailwind.</p>
       <p class="my-4">You have many examples that can be used to create a fast prototype for your team."</p>
       {#snippet caption()}
-        <img class="h-9 w-9 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/joseph-mcfall.png" alt="joseph profile" />
+        <img class="h-9 w-9 rounded-full" src="/images/blocks/marketing-ui/avatars/joseph-mcfall.png" alt="joseph profile" />
         <div class="space-y-0.5 text-left font-medium dark:text-white">
           <div>Joseph McFall</div>
           <div class="text-sm font-light text-gray-500 dark:text-gray-400">CTO at Google</div>

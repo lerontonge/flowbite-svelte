@@ -52,8 +52,8 @@ Use this example to show an image or app screenshot next to the CTA button to pr
 <Section name="ctawithimg">
   <Cta ctatype="image">
     {#snippet img()}
-      <img class="w-full dark:hidden" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/cta/cta-dashboard-mockup.svg" alt="dashboard" />
-      <img class="hidden w-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/cta/cta-dashboard-mockup-dark.svg" alt="dashboard" />
+      <img class="w-full dark:hidden" src="/images/blocks/marketing-ui/cta/cta-dashboard-mockup.svg" alt="dashboard" />
+      <img class="hidden w-full dark:block" src="/images/blocks/marketing-ui/cta/cta-dashboard-mockup-dark.svg" alt="dashboard" />
     {/snippet}
     {#snippet h2()}Let's create more tools and ideas that brings us together.{/snippet}
     <p class="mb-6 font-light text-gray-500 md:text-lg dark:text-gray-400">Flowbite helps you connect with friends and communities of people who share your interests. Connecting with your friends and family as well as discovering new ones is easy with features like Groups.</p>

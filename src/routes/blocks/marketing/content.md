@@ -52,8 +52,8 @@ Use this example to show a couple of images next to a heading and paragraph to p
     <p>We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick.</p>
 
     {#snippet image()}
-      <img class="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1" />
-      <img class="mt-4 w-full rounded-lg lg:mt-10" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2" />
+      <img class="w-full rounded-lg" src="/images/blocks/marketing-ui/content/office-long-2.png" alt="office content 1" />
+      <img class="mt-4 w-full rounded-lg lg:mt-10" src="/images/blocks/marketing-ui/content/office-long-1.png" alt="office content 2" />
     {/snippet}
   </ContentWithImage>
 </Section>

@@ -27,18 +27,18 @@ Example below show a gallery with three pictures on a row.
 <script lang="ts">
   import { Gallery } from "flowbite-svelte";
   const images = [
-    { alt: "erbology", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image.jpg" },
-    { alt: "shoes", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg" },
-    { alt: "small bag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg" },
-    { alt: "plants", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-3.jpg" },
-    { alt: "watch", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-4.jpg" },
-    { alt: "shoe", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg" },
-    { alt: "cream", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-6.jpg" },
-    { alt: "small bag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-7.jpg" },
-    { alt: "lamp", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-8.jpg" },
-    { alt: "toiletbag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-9.jpg" },
-    { alt: "playstation", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-10.jpg" },
-    { alt: "bag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-11.jpg" }
+    { alt: "erbology", src: "/images/docs/gallery/square/image.jpg" },
+    { alt: "shoes", src: "/images/docs/gallery/square/image-1.jpg" },
+    { alt: "small bag", src: "/images/docs/gallery/square/image-2.jpg" },
+    { alt: "plants", src: "/images/docs/gallery/square/image-3.jpg" },
+    { alt: "watch", src: "/images/docs/gallery/square/image-4.jpg" },
+    { alt: "shoe", src: "/images/docs/gallery/square/image-5.jpg" },
+    { alt: "cream", src: "/images/docs/gallery/square/image-6.jpg" },
+    { alt: "small bag", src: "/images/docs/gallery/square/image-7.jpg" },
+    { alt: "lamp", src: "/images/docs/gallery/square/image-8.jpg" },
+    { alt: "toiletbag", src: "/images/docs/gallery/square/image-9.jpg" },
+    { alt: "playstation", src: "/images/docs/gallery/square/image-10.jpg" },
+    { alt: "bag", src: "/images/docs/gallery/square/image-11.jpg" }
   ];
 </script>
 
@@ -53,24 +53,24 @@ This example can be used to show the images inside a masonry grid layouts with f
 <script lang="ts">
   import { Gallery } from "flowbite-svelte";
   const images1 = [
-    { alt: "erbology", src: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image.jpg" },
-    { alt: "shoes", src: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-1.jpg" },
-    { alt: "small bag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-2.jpg" }
+    { alt: "erbology", src: "/images/docs/gallery/masonry/image.jpg" },
+    { alt: "shoes", src: "/images/docs/gallery/masonry/image-1.jpg" },
+    { alt: "small bag", src: "/images/docs/gallery/masonry/image-2.jpg" }
   ];
   const images2 = [
-    { alt: "plants", src: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-3.jpg" },
-    { alt: "watch", src: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-4.jpg" },
-    { alt: "shoe", src: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-5.jpg" }
+    { alt: "plants", src: "/images/docs/gallery/masonry/image-3.jpg" },
+    { alt: "watch", src: "/images/docs/gallery/masonry/image-4.jpg" },
+    { alt: "shoe", src: "/images/docs/gallery/masonry/image-5.jpg" }
   ];
   const images3 = [
-    { alt: "cream", src: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-6.jpg" },
-    { alt: "small bag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-7.jpg" },
-    { alt: "lamp", src: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg" }
+    { alt: "cream", src: "/images/docs/gallery/masonry/image-6.jpg" },
+    { alt: "small bag", src: "/images/docs/gallery/masonry/image-7.jpg" },
+    { alt: "lamp", src: "/images/docs/gallery/masonry/image-8.jpg" }
   ];
   const images4 = [
-    { alt: "toiletbag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-9.jpg" },
-    { alt: "playstation", src: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-10.jpg" },
-    { alt: "bag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-11.jpg" }
+    { alt: "toiletbag", src: "/images/docs/gallery/masonry/image-9.jpg" },
+    { alt: "playstation", src: "/images/docs/gallery/masonry/image-10.jpg" },
+    { alt: "bag", src: "/images/docs/gallery/masonry/image-11.jpg" }
   ];
 </script>
 
@@ -93,15 +93,15 @@ This example can be used to feature the most important image and show a row of f
 
   const image1 = {
     alt: "erbology",
-    src: "https://flowbite.s3.amazonaws.com/docs/gallery/featured/image.jpg"
+    src: "/images/docs/gallery/featured/image.jpg"
   };
 
   const images2 = [
-    { alt: "shoes", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg" },
-    { alt: "small bag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg" },
-    { alt: "plants", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-3.jpg" },
-    { alt: "watch", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-4.jpg" },
-    { alt: "shoe", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg" }
+    { alt: "shoes", src: "/images/docs/gallery/square/image-1.jpg" },
+    { alt: "small bag", src: "/images/docs/gallery/square/image-2.jpg" },
+    { alt: "plants", src: "/images/docs/gallery/square/image-3.jpg" },
+    { alt: "watch", src: "/images/docs/gallery/square/image-4.jpg" },
+    { alt: "shoe", src: "/images/docs/gallery/square/image-5.jpg" }
   ];
 
   let main = $state<ImgType>({
@@ -134,10 +134,10 @@ Use this example to show four larger images with two items on a row.
   import { Gallery } from "flowbite-svelte";
 
   const images = [
-    { alt: "shoes", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg" },
-    { alt: "small bag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg" },
-    { alt: "plants", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-3.jpg" },
-    { alt: "watch", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-4.jpg" }
+    { alt: "shoes", src: "/images/docs/gallery/square/image-1.jpg" },
+    { alt: "small bag", src: "/images/docs/gallery/square/image-2.jpg" },
+    { alt: "plants", src: "/images/docs/gallery/square/image-3.jpg" },
+    { alt: "watch", src: "/images/docs/gallery/square/image-4.jpg" }
   ];
 </script>
 
@@ -153,18 +153,18 @@ Use this example to show a list of tags and filter the images below based on the
   import { Gallery, Button } from "flowbite-svelte";
 
   const images = [
-    { alt: "erbology", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image.jpg", category: "Bags" },
-    { alt: "shoes", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg", category: "Shoes" },
-    { alt: "small bag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg", category: "Bags" },
-    { alt: "plants", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-3.jpg", category: "Electronics" },
-    { alt: "watch", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-4.jpg", category: "Electronics" },
-    { alt: "shoe", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg", category: "Shoes" },
-    { alt: "cream", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-6.jpg", category: "Bags" },
-    { alt: "small bag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-7.jpg", category: "Bags" },
-    { alt: "lamp", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-8.jpg", category: "Electronics" },
-    { alt: "toiletbag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-9.jpg", category: "Bags" },
-    { alt: "playstation", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-10.jpg", category: "Gaming" },
-    { alt: "bag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-11.jpg", category: "Bags" }
+    { alt: "erbology", src: "/images/docs/gallery/square/image.jpg", category: "Bags" },
+    { alt: "shoes", src: "/images/docs/gallery/square/image-1.jpg", category: "Shoes" },
+    { alt: "small bag", src: "/images/docs/gallery/square/image-2.jpg", category: "Bags" },
+    { alt: "plants", src: "/images/docs/gallery/square/image-3.jpg", category: "Electronics" },
+    { alt: "watch", src: "/images/docs/gallery/square/image-4.jpg", category: "Electronics" },
+    { alt: "shoe", src: "/images/docs/gallery/square/image-5.jpg", category: "Shoes" },
+    { alt: "cream", src: "/images/docs/gallery/square/image-6.jpg", category: "Bags" },
+    { alt: "small bag", src: "/images/docs/gallery/square/image-7.jpg", category: "Bags" },
+    { alt: "lamp", src: "/images/docs/gallery/square/image-8.jpg", category: "Electronics" },
+    { alt: "toiletbag", src: "/images/docs/gallery/square/image-9.jpg", category: "Bags" },
+    { alt: "playstation", src: "/images/docs/gallery/square/image-10.jpg", category: "Gaming" },
+    { alt: "bag", src: "/images/docs/gallery/square/image-11.jpg", category: "Bags" }
   ];
 
   let selectedCategory = $state("All");
@@ -193,10 +193,10 @@ Gallery items don't have to be all the same but then you need to list them manua
 </script>
 
 <Gallery class="grid-cols-2 gap-4">
-  <img src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg" alt="shoas" class="max-w- h-auto rounded-lg" />
+  <img src="/images/docs/gallery/square/image-1.jpg" alt="shoas" class="max-w- h-auto rounded-lg" />
   <div class="max-w- flex h-auto items-center justify-center rounded-lg bg-red-300 text-6xl font-extrabold">Sale</div>
   <div class="max-w- flex h-auto items-center justify-center rounded-lg bg-blue-300 text-6xl font-extrabold">Sale</div>
-  <img alt="plants" src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-3.jpg" class="max-w- h-auto rounded-lg" />
+  <img alt="plants" src="/images/docs/gallery/square/image-3.jpg" class="max-w- h-auto rounded-lg" />
 </Gallery>
 ```
 
@@ -208,11 +208,11 @@ This example shows how to get a complete control over the gallery images look an
 <script lang="ts">
   import { Gallery } from "flowbite-svelte";
   const images = [
-    { alt: "shoes", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg" },
-    { alt: "small bag", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg" },
-    { alt: "plants", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-3.jpg" },
-    { alt: "watch", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-4.jpg" },
-    { alt: "shoe", src: "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg" }
+    { alt: "shoes", src: "/images/docs/gallery/square/image-1.jpg" },
+    { alt: "small bag", src: "/images/docs/gallery/square/image-2.jpg" },
+    { alt: "plants", src: "/images/docs/gallery/square/image-3.jpg" },
+    { alt: "watch", src: "/images/docs/gallery/square/image-4.jpg" },
+    { alt: "shoe", src: "/images/docs/gallery/square/image-5.jpg" }
   ];
 </script>
 

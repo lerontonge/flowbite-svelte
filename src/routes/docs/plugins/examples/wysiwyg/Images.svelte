@@ -5,8 +5,8 @@
   let editorInstance = $state<Editor | null>(null);
 
   const content = `<p>This is a basic example of implementing images. Drag to re-order.</p>
-        <img src="https://placehold.co/400x200" />
-        <img src="https://placehold.co/400x200/6A00F5/white" />`;
+        <img src="/images/examples/image-1.jpg" />
+        <img src="/images/examples/image-4@2x.jpg" />`;
 </script>
 
 <TextEditor bind:editor={editorInstance} {content} contentprops={{ id: "image-ex" }}>

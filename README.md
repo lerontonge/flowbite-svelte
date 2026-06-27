@@ -4,7 +4,7 @@
 
 <p>
     <a href="https://flowbite-svelte.com" >
-      <img alt="Flowbite Svelte UI components" width="350" src="https://raw.githubusercontent.com/themesberg/flowbite-svelte/main/static/images/flowbite-svelte.png">
+      <img alt="Flowbite Svelte UI components" width="350" src="./static/images/flowbite-svelte.png">
     </a><br>
     Build websites even faster with Svelte components on top of Tailwind CSS
 </p>
@@ -36,17 +36,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/alert">
-            <img alt="Svelte Alerts" src="https://flowbite.s3.amazonaws.com/github/svelte/alerts.jpg">
+            <img alt="Svelte Alerts" src="./static/images/components/alert.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/badge">
-            <img alt="Svelte Badge" src="https://flowbite.s3.amazonaws.com/github/svelte/badge.jpg">
+            <img alt="Svelte Badge" src="./static/images/components/badge.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/breadcrumb">
-            <img alt="Svelte Breadcrumbs" src="https://flowbite.s3.amazonaws.com/github/svelte/breadcrumbs.jpg">
+            <img alt="Svelte Breadcrumbs" src="./static/images/components/breadcrumb.svg">
         </a>
     </td>
   </tr>
@@ -58,17 +58,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/buttons">
-            <img alt="Svelte Buttons" src="https://flowbite.s3.amazonaws.com/github/svelte/buttons.jpg">
+            <img alt="Svelte Buttons" src="./static/images/components/buttons.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/button-group">
-            <img alt="Svelte Button Group" src="https://flowbite.s3.amazonaws.com/github/svelte/button-group.jpg">
+            <img alt="Svelte Button Group" src="./static/images/components/button-group.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/card">
-            <img alt="Svelte Cards" src="https://flowbite.s3.amazonaws.com/github/svelte/cards.jpg">
+            <img alt="Svelte Cards" src="./static/images/components/card.svg">
         </a>
     </td>
   </tr>
@@ -80,17 +80,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/dropdown">
-            <img alt="Svelte Dropdown" src="https://flowbite.s3.amazonaws.com/github/svelte/dropdown.jpg">
+            <img alt="Svelte Dropdown" src="./static/images/components/dropdown.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/forms">
-            <img alt="Svelte Forms" src="https://flowbite.s3.amazonaws.com/github/svelte/forms.jpg">
+            <img alt="Svelte Forms" src="./static/images/components/forms.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/list-group">
-            <img alt="Svelte List group" src="https://flowbite.s3.amazonaws.com/github/svelte/list-group.jpg">
+            <img alt="Svelte List group" src="./static/images/components/list-group.svg">
         </a>
     </td>
   </tr>
@@ -102,17 +102,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/typography">
-            <img alt="Svelte Typography" src="https://flowbite.s3.amazonaws.com/github/svelte/typography.jpg">
+            <img alt="Svelte Typography" src="./static/images/components/typography.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/modal">
-            <img alt="Svelte Modal" src="https://flowbite.s3.amazonaws.com/github/svelte/modal.jpg">
+            <img alt="Svelte Modal" src="./static/images/components/modal.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/tabs">
-            <img alt="Svelte Tabs" src="https://flowbite.s3.amazonaws.com/github/svelte/tabs.jpg">
+            <img alt="Svelte Tabs" src="./static/images/components/tab.svg">
         </a>
     </td>
   </tr>
@@ -124,17 +124,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/navbar">
-            <img alt="Svelte Navbar" src="https://flowbite.s3.amazonaws.com/github/svelte/navbar.jpg">
+            <img alt="Svelte Navbar" src="./static/images/components/navbar.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/pagination">
-            <img alt="Svelte Pagination" src="https://flowbite.s3.amazonaws.com/github/svelte/pagination.jpg">
+            <img alt="Svelte Pagination" src="./static/images/components/pagination.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/timeline">
-            <img alt="Svelte Timeline" src="https://flowbite.s3.amazonaws.com/github/svelte/timeline.jpg">
+            <img alt="Svelte Timeline" src="./static/images/components/timeline.svg">
         </a>
     </td>
   </tr>
@@ -146,17 +146,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/progress">
-            <img alt="Svelte Progress Bar" src="https://flowbite.s3.amazonaws.com/github/svelte/progress.jpg">
+            <img alt="Svelte Progress Bar" src="./static/images/components/progress.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/table">
-            <img alt="Svelte Tables" src="https://flowbite.s3.amazonaws.com/github/svelte/table.jpg">
+            <img alt="Svelte Tables" src="./static/images/components/table.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/toast">
-            <img alt="Svelte Toast" src="https://flowbite.s3.amazonaws.com/github/svelte/toast.jpg">
+            <img alt="Svelte Toast" src="./static/images/components/toast.svg">
         </a>
     </td>
   </tr>
@@ -168,17 +168,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/tooltip">
-            <img alt="Svelte Tooltips" src="https://flowbite.s3.amazonaws.com/github/svelte/tooltips.jpg">
+            <img alt="Svelte Tooltips" src="./static/images/components/tooltip.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/datepicker">
-            <img alt="Svelte Datepicker" src="https://flowbite.s3.amazonaws.com/github/svelte/datepicker.jpg">
+            <img alt="Svelte Datepicker" src="./static/images/components/datepicker.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/spinner">
-            <img alt="Svelte Spinner" src="https://flowbite.s3.amazonaws.com/github/svelte/spinner.jpg">
+            <img alt="Svelte Spinner" src="./static/images/components/spinner.svg">
         </a>
     </td>
   </tr>
@@ -190,17 +190,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/footer">
-            <img alt="Svelte Footer" src="https://flowbite.s3.amazonaws.com/github/svelte/footer.jpg">
+            <img alt="Svelte Footer" src="./static/images/components/footer.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/accordion">
-            <img alt="Svelte Accordion" src="https://flowbite.s3.amazonaws.com/github/svelte/accordion.jpg">
+            <img alt="Svelte Accordion" src="./static/images/components/accordion.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/sidebar">
-            <img alt="Svelte Sidebar" src="https://flowbite.s3.amazonaws.com/github/svelte/sidebar.jpg">
+            <img alt="Svelte Sidebar" src="./static/images/components/sidebar.svg">
         </a>
     </td>
   </tr>
@@ -212,17 +212,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/carousel">
-            <img alt="Svelte Carousel" src="https://flowbite.s3.amazonaws.com/github/svelte/carousel.jpg">
+            <img alt="Svelte Carousel" src="./static/images/components/carousel.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/avatar">
-            <img alt="Svelte Avatar" src="https://flowbite.s3.amazonaws.com/github/svelte/avatar.jpg">
+            <img alt="Svelte Avatar" src="./static/images/components/avatar.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/rating">
-            <img alt="Svelte Rating" src="https://flowbite.s3.amazonaws.com/github/svelte/rating.jpg">
+            <img alt="Svelte Rating" src="./static/images/components/rating.svg">
         </a>
     </td>
   </tr>
@@ -234,17 +234,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/forms/input-field">
-            <img alt="Svelte Input Field" src="https://flowbite.s3.amazonaws.com/github/svelte/input-field.jpg">
+            <img alt="Svelte Input Field" src="./static/images/forms/input-field.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/forms/file-input">
-            <img alt="Svelte File Input" src="https://flowbite.s3.amazonaws.com/github/svelte/file-input.jpg">
+            <img alt="Svelte File Input" src="./static/images/forms/file-input.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/forms/search-input">
-            <img alt="Svelte Search Input" src="https://flowbite.s3.amazonaws.com/github/svelte/search-input.jpg">
+            <img alt="Svelte Search Input" src="./static/images/forms/search-input.svg">
         </a>
     </td>
   </tr>
@@ -256,17 +256,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/forms/select">
-            <img alt="Svelte Select" src="https://flowbite.s3.amazonaws.com/github/svelte/select.jpg">
+            <img alt="Svelte Select" src="./static/images/forms/select.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/forms/textarea">
-            <img alt="Svelte Textarea" src="https://flowbite.s3.amazonaws.com/github/svelte/textarea.jpg">
+            <img alt="Svelte Textarea" src="./static/images/forms/textarea.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/forms/checkbox">
-            <img alt="Svelte Checkbox" src="https://flowbite.s3.amazonaws.com/github/svelte/checkbox.jpg">
+            <img alt="Svelte Checkbox" src="./static/images/forms/checkbox.svg">
         </a>
     </td>
   </tr>
@@ -278,17 +278,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/forms/radio">
-            <img alt="Svelte Radio" src="https://flowbite.s3.amazonaws.com/github/svelte/radio.jpg">
+            <img alt="Svelte Radio" src="./static/images/forms/radio.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/forms/toggle">
-            <img alt="Svelte Toggle" src="https://flowbite.s3.amazonaws.com/github/svelte/toggle.jpg">
+            <img alt="Svelte Toggle" src="./static/images/forms/toggle.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/forms/range">
-            <img alt="Svelte Range Slider" src="https://flowbite.s3.amazonaws.com/github/svelte/range-slider.jpg">
+            <img alt="Svelte Range Slider" src="./static/images/forms/range.svg">
         </a>
     </td>
   </tr>
@@ -300,17 +300,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/forms/floating-label">
-            <img alt="Svelte Floating Label" src="https://flowbite.s3.amazonaws.com/github/svelte/floating-label.jpg">
+            <img alt="Svelte Floating Label" src="./static/images/forms/floating-label.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/mega-menu">
-            <img alt="Svelte Mega Menu" src="https://flowbite.s3.amazonaws.com/github/svelte/mega-menu.jpg">
+            <img alt="Svelte Mega Menu" src="./static/images/components/mega-menu.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/skeleton">
-            <img alt="Svelte Skeleton" src="https://flowbite.s3.amazonaws.com/github/svelte/skeleton.jpg">
+            <img alt="Svelte Skeleton" src="./static/images/components/skeleton.svg">
         </a>
     </td>
   </tr>
@@ -322,17 +322,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/kbd">
-            <img alt="Svelte KBD (Keyboard)" src="https://flowbite.s3.amazonaws.com/github/svelte/kbd.jpg">
+            <img alt="Svelte KBD (Keyboard)" src="./static/images/components/kbd.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/drawer">
-            <img alt="Svelte Drawer (offcanvas)" src="https://flowbite.s3.amazonaws.com/github/svelte/drawer.jpg">
+            <img alt="Svelte Drawer (offcanvas)" src="./static/images/components/drawer.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/popover">
-            <img alt="Svelte Popover" src="https://flowbite.s3.amazonaws.com/github/svelte/popover.jpg">
+            <img alt="Svelte Popover" src="./static/images/components/popover.svg">
         </a>
     </td>
   </tr>
@@ -344,17 +344,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/video">
-            <img alt="Svelte Video" src="https://flowbite.s3.amazonaws.com/github/svelte/video.jpg">
+            <img alt="Svelte Video" src="./static/images/components/video.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/typography/heading">
-            <img alt="Svelte Heading" src="https://flowbite.s3.amazonaws.com/github/svelte/heading.jpg">
+            <img alt="Svelte Heading" src="./static/images/typography/heading.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/typography/paragraph">
-            <img alt="Svelte Paragraph" src="https://flowbite.s3.amazonaws.com/github/svelte/paragraph.jpg">
+            <img alt="Svelte Paragraph" src="./static/images/typography/paragraph.svg">
         </a>
     </td>
   </tr>
@@ -366,17 +366,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/typography/blockquote">
-            <img alt="Svelte Blockquote" src="https://flowbite.s3.amazonaws.com/github/svelte/blockquote.jpg">
+            <img alt="Svelte Blockquote" src="./static/images/typography/blockquote.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/typography/image">
-            <img alt="Svelte Image" src="https://flowbite.s3.amazonaws.com/github/svelte/image.jpg">
+            <img alt="Svelte Image" src="./static/images/typography/image.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/typography/list">
-            <img alt="Svelte List" src="https://flowbite.s3.amazonaws.com/github/svelte/list.jpg">
+            <img alt="Svelte List" src="./static/images/typography/list.svg">
         </a>
     </td>
   </tr>
@@ -388,17 +388,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/typography/link">
-            <img alt="Svelte Link" src="https://flowbite.s3.amazonaws.com/github/svelte/link.jpg">
+            <img alt="Svelte Link" src="./static/images/typography/link.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/typography/text">
-            <img alt="Svelte Text" src="https://flowbite.s3.amazonaws.com/github/svelte/text.jpg">
+            <img alt="Svelte Text" src="./static/images/typography/text.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/typography/hr">
-            <img alt="Svelte HR" src="https://flowbite.s3.amazonaws.com/github/svelte/hr.jpg">
+            <img alt="Svelte HR" src="./static/images/typography/hr.svg">
         </a>
     </td>
   </tr>
@@ -410,17 +410,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/speed-dial">
-            <img alt="Svelte Speed Dial" src="https://flowbite.s3.amazonaws.com/github/svelte/dial.jpg">
+            <img alt="Svelte Speed Dial" src="./static/images/components/speed-dial.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com">
-            <img alt="Svelte Stepper" src="https://flowbite.s3.amazonaws.com/github/svelte/stepper.jpg">
+            <img alt="Svelte Stepper" src="./static/images/components/stepper.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/indicators">
-            <img alt="Svelte Indicators" src="https://flowbite.s3.amazonaws.com/github/svelte/indicators.jpg">
+            <img alt="Svelte Indicators" src="./static/images/components/indicators.svg">
         </a>
     </td>
   </tr>
@@ -432,17 +432,17 @@ For full documentation, visit [flowbite-svelte.com](https://flowbite-svelte.com/
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/bottom-navigation">
-            <img alt="Svelte Bottom Navigation Bar" src="https://flowbite.s3.amazonaws.com/github/svelte/bottom-bar.jpg">
+            <img alt="Svelte Bottom Navigation Bar" src="./static/images/components/bottom-navigation.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/banner">
-            <img alt="Svelte Bottom Sticky Banner" src="https://flowbite.s3.amazonaws.com/github/svelte/banner.jpg">
+            <img alt="Svelte Bottom Sticky Banner" src="./static/images/components/banner.svg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite-svelte.com/docs/components/gallery">
-            <img alt="Svelte Image Gallery (Masonry)" src="https://flowbite.s3.amazonaws.com/github/svelte/gallery.jpg">
+            <img alt="Svelte Image Gallery (Masonry)" src="./static/images/components/gallery.svg">
         </a>
     </td>
   </tr>

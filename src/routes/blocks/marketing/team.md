@@ -24,7 +24,7 @@ Use this example to show information about your team members such as the name, o
   let members = [
     {
       href: "/",
-      src: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png",
+      src: "/images/blocks/marketing-ui/avatars/bonnie-green.png",
       alt: "Bonnie Green",
       name: "Bonnie Green",
       jobTitle: "CEO & Web Developer",
@@ -32,7 +32,7 @@ Use this example to show information about your team members such as the name, o
     },
     {
       href: "/",
-      src: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png",
+      src: "/images/blocks/marketing-ui/avatars/jese-leos.png",
       alt: "Jese Leos",
       name: "Jese Leos",
       jobTitle: "CTO",
@@ -40,7 +40,7 @@ Use this example to show information about your team members such as the name, o
     },
     {
       href: "/",
-      src: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png",
+      src: "/images/blocks/marketing-ui/avatars/michael-gouch.png",
       alt: "Michael Gouch",
       name: "Michael Gouch",
       jobTitle: "Senior Front-end Developer",
@@ -48,7 +48,7 @@ Use this example to show information about your team members such as the name, o
     },
     {
       href: "/",
-      src: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/sofia-mcguire.png",
+      src: "/images/blocks/marketing-ui/avatars/sofia-mcguire.png",
       alt: "Lana Byrd",
       name: "Lana Byrd",
       jobTitle: "Marketing & Sale",

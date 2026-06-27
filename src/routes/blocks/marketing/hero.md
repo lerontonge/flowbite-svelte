@@ -87,7 +87,7 @@ Use this example to show an image next to the heading and CTA buttons to improve
     </HeroHeader>
   </div>
   <div class="hidden lg:col-span-5 lg:mt-0 lg:flex">
-    <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/phone-mockup.png" alt="mockup" />
+    <img src="/images/blocks/marketing-ui/hero/phone-mockup.png" alt="mockup" />
   </div>
 </Section>
 ```

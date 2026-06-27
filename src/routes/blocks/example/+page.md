@@ -57,7 +57,7 @@ description: Flowbite Svelte Blocks example website homepage.
   </div>
   <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
     <img
-      src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/phone-mockup.png"
+      src="/images/blocks/marketing-ui/hero/phone-mockup.png"
       alt="mockup"
     />
   </div>
@@ -172,12 +172,12 @@ description: Flowbite Svelte Blocks example website homepage.
     {#snippet image()}
       <img
         class="w-full rounded-lg"
-        src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png"
+        src="/images/blocks/marketing-ui/content/office-long-2.png"
         alt="office content 1"
       />
       <img
         class="mt-4 w-full lg:mt-10 rounded-lg"
-        src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png"
+        src="/images/blocks/marketing-ui/content/office-long-1.png"
         alt="office content 2"
       />
     {/snippet}

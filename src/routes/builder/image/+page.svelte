@@ -55,7 +55,7 @@
 
       const propsString = props.length > 0 ? props.map((prop) => `\n  ${prop}`).join("") + "\n" : "";
 
-      return `<Img${propsString} src='/images/examples/content-gallery-1.png'/>`;
+      return `<Img${propsString} src='/images/examples/content-gallery-3.png'/>`;
     })()
   );
   // for interactive builder

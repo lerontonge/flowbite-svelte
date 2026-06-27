@@ -18,10 +18,10 @@ description: Get started with a collection of open-source Flowbite Svelte Icons 
 Use well over 750 SVG icons based on the open-source [Flowbite Icons](https://flowbite.com/icons/) library to power your Svelte application with optimized icons provided with both outline and solid styles. This page allows usage for Svelte 5 applications.
 
 <div class="flex gap-2 my-8">
-<a href="https://github.com/sponsors/shinokada" target="_blank"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="sponsor" ></a>
-<a href="https://www.npmjs.com/package/flowbite-svelte-icons" rel="nofollow" target="_blank"><img src="https://img.shields.io/npm/v/flowbite-svelte-icons?color=red" alt="npm" ></a>
-<a href="https://opensource.org/licenses/MIT" rel="nofollow" target="_blank"><img src="https://img.shields.io/github/license/shinokada/flowbite-svelte-icons" alt="License" ></a>
-<a href="https://www.npmjs.com/package/flowbite-svelte-icons" rel="nofollow" target="_blank"><img src="https://img.shields.io/npm/dw/flowbite-svelte-icons.svg" alt="npm" ></a>
+<a href="https://github.com/sponsors/shinokada" target="_blank"><img src="/images/badges/flowbite-svelte-icons-sponsor.svg" alt="sponsor" ></a>
+<a href="https://www.npmjs.com/package/flowbite-svelte-icons" rel="nofollow" target="_blank"><img src="/images/badges/flowbite-svelte-icons-version.svg" alt="npm" ></a>
+<a href="https://opensource.org/licenses/MIT" rel="nofollow" target="_blank"><img src="/images/badges/flowbite-svelte-icons-license.svg" alt="License" ></a>
+<a href="https://www.npmjs.com/package/flowbite-svelte-icons" rel="nofollow" target="_blank"><img src="/images/badges/flowbite-svelte-icons-downloads.svg" alt="npm" ></a>
 </div>
 
 ## Requirements

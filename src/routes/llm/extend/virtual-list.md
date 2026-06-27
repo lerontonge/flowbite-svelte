@@ -391,9 +391,17 @@ Enable with `<VirtualList contained …>` or override via `classes.item`.
     date: string;
   }
 
+  const thumbnails = [
+    "/images/docs/gallery/square/image.jpg",
+    "/images/docs/gallery/square/image-1.jpg",
+    "/images/docs/gallery/square/image-2.jpg",
+    "/images/docs/gallery/square/image-3.jpg",
+    "/images/docs/gallery/square/image-4.jpg"
+  ];
+
   const items: Article[] = Array.from({ length: 5000 }, (_, i) => ({
     id: i + 1,
-    thumbnail: `https://picsum.photos/seed/${i}/400/300`,
+    thumbnail: thumbnails[i % thumbnails.length],
     title: `Article ${i + 1}: ${["Tech Innovations", "Design Trends", "Web Development", "AI Insights", "Product Updates"][i % 5]}`,
     description: `This is a detailed description for article ${i + 1}. It contains interesting information about the topic and provides valuable insights for readers.`,
     author: ["Alice Johnson", "Bob Smith", "Carol Williams", "David Brown", "Emma Davis"][i % 5],
@@ -465,4 +473,3 @@ Enable with `<VirtualList contained …>` or override via `classes.item`.
 ## See also
 
 - [List group](https://flowbite-svelte.com/llm/components/list-group.md)
-
